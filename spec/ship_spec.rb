@@ -1,6 +1,8 @@
 require 'ship'
 
 describe Ship do
+  let(:subject) { Ship.patrol_boat }
+
   it 'has zero hits when created' do
     expect(subject.hits).to eq 0
   end
