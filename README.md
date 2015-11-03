@@ -5,7 +5,9 @@ It introduces more advanced concepts of OOP and TDD to us. More focus on clean
 code and SOLID principles are also placed. It also teaches us the importance of
 breaking down the problem and then starting with an MVP. The player and to a
 greater extent, the game class, was not terribly well written, as described
-below. On the other hand, I was quite happy with the board class.
+below. On the other hand, I was quite happy with the board class. We did have to
+use global variables, which is definitely not ideal, but since we won't be
+introduced to database until the next week, it was the only viable substitute.
 
 ##Challenges
 
