@@ -31,3 +31,5 @@ RSpec
 Clone the repo and run the runner.rb in the terminal for a semi functional
 interactive battleships game.
 
+Run rspec in the terminal to run the tests.
+
